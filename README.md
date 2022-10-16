@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Frameworks|AI|ML|DSA|Hardware**
+- 🌱 I’m currently learning **Frameworks|| AI || ML ||DSA ||Hardware**
 -  🎇 Leave a legacy that echoes till eternity 🎇
 
 <h3 align="left">Connect with me:</h3>
